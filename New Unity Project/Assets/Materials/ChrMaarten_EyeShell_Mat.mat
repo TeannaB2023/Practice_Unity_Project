@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ChrMaarten_EyeShell_Mat
+  m_Shader: {fileID: 4800000, guid: b06c9029387c5354ea82bedd0a7086fe, type: 3}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormal
+        second:
+          m_Texture: {fileID: 2800000, guid: be2c4a24373baf647b3a79747ddae21a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Distortion
+        second: .100000001
+      data:
+        first:
+          name: _PrimaryHighlight_Falloff
+        second: 400
+      data:
+        first:
+          name: _DiffusedHighlight_Str
+        second: 1650
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _PrimaryHighlight_Pos
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _DiffusedHighlight_Pos
+        second: {r: 0, g: 0, b: 0, a: 0}

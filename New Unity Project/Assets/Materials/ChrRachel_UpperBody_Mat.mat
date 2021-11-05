@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ChrRachel_UpperBody_Mat
+  m_Shader: {fileID: 4800000, guid: f7ea8191c62d23644ab5bb4540fcf592, type: 3}
+  m_ShaderKeywords: []
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 6590ec053814130458e0333fd2890a83, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 7918e4bbf18cabc468dbd1a9f9080bd4, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 016c610966f13474393228d468aa135e, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Albedo
+        second:
+          m_Texture: {fileID: 2800000, guid: 6590ec053814130458e0333fd2890a83, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NormalR
+        second:
+          m_Texture: {fileID: 2800000, guid: 7918e4bbf18cabc468dbd1a9f9080bd4, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NormalG
+        second:
+          m_Texture: {fileID: 2800000, guid: 7918e4bbf18cabc468dbd1a9f9080bd4, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NormalB
+        second:
+          m_Texture: {fileID: 2800000, guid: 7918e4bbf18cabc468dbd1a9f9080bd4, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NormalS
+        second:
+          m_Texture: {fileID: 2800000, guid: 7918e4bbf18cabc468dbd1a9f9080bd4, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .8000000
+      data:
+        first:
+          name: _DiffuseIntensity
+        second: 1
+      data:
+        first:
+          name: _SpecularIntensity
+        second: 1
+      data:
+        first:
+          name: _SpecularExponent
+        second: 3.84615374
+      data:
+        first:
+          name: _AsperityIntensity
+        second: .673076928
+      data:
+        first:
+          name: _AsperityExponent
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .99999994, g: .99999994, b: .99999994, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .365671635, g: .365671635, b: .365671635, a: 1}
+      data:
+        first:
+          name: _SSSColor
+        second: {r: .932835817, g: .932835817, b: .932835817, a: 1}

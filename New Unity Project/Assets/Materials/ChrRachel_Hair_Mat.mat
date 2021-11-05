@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ChrRachel_Hair_Mat
+  m_Shader: {fileID: 4800000, guid: 0c2880a8f42127040967b899b4321bb6, type: 3}
+  m_ShaderKeywords: []
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: ddc7fe4a0f563a448b2d15c16559f7fc, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: d0c381ba906b8cb41b886381746dbfb6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecMap
+        second:
+          m_Texture: {fileID: 2800000, guid: e2f84b54a9162de4e9ba9889c93b690a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularTex
+        second:
+          m_Texture: {fileID: 2800000, guid: e2f84b54a9162de4e9ba9889c93b690a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AnisoTex
+        second:
+          m_Texture: {fileID: 2800000, guid: d0c381ba906b8cb41b886381746dbfb6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .514925361
+      data:
+        first:
+          name: _Shininess
+        second: 99.9999847
+      data:
+        first:
+          name: _SpecularColor
+        second: .0298507456
+      data:
+        first:
+          name: _AnisoOffset
+        second: .0388059653
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .99999994, g: .909819126, b: .909819126, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 0, g: 0, b: 0, a: 1}

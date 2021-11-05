@@ -1,0 +1,3749 @@
+fileFormatVersion: 2
+guid: 961288a46389a8f4d8206d5c9051f522
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: MorphTargets
+  - first:
+      1: 100002
+    second: EyesTeethTongue
+  - first:
+      1: 100004
+    second: EyelashRtTop
+  - first:
+      1: 100006
+    second: EyelashRtBottom
+  - first:
+      1: 100008
+    second: EyelashLfTop
+  - first:
+      1: 100010
+    second: EyelashLfBottom
+  - first:
+      1: 100012
+    second: Body1
+  - first:
+      1: 100014
+    second: MshRef
+  - first:
+      1: 100016
+    second: SkinnedMesh
+  - first:
+      1: 100018
+    second: Mesh
+  - first:
+      1: 100020
+    second: JtIndexDRt
+  - first:
+      1: 100022
+    second: JtIndexCRt
+  - first:
+      1: 100024
+    second: JtIndexBRt
+  - first:
+      1: 100026
+    second: JtIndexARt
+  - first:
+      1: 100028
+    second: JtLittleDRt
+  - first:
+      1: 100030
+    second: JtLittleCRt
+  - first:
+      1: 100032
+    second: JtLittleBRt
+  - first:
+      1: 100034
+    second: JtLittleARt
+  - first:
+      1: 100036
+    second: JtMiddleDRt
+  - first:
+      1: 100038
+    second: JtMiddleCRt
+  - first:
+      1: 100040
+    second: JtMiddleBRt
+  - first:
+      1: 100042
+    second: JtMiddleARt
+  - first:
+      1: 100044
+    second: JtRingDRt
+  - first:
+      1: 100046
+    second: JtRingCRt
+  - first:
+      1: 100048
+    second: JtRingBRt
+  - first:
+      1: 100050
+    second: JtRingARt
+  - first:
+      1: 100052
+    second: JtThumbDRt
+  - first:
+      1: 100054
+    second: JtThumbCRt
+  - first:
+      1: 100056
+    second: JtThumbBRt
+  - first:
+      1: 100058
+    second: JtThumbARt
+  - first:
+      1: 100060
+    second: JtWristRt
+  - first:
+      1: 100062
+    second: JtElbowRt
+  - first:
+      1: 100064
+    second: JtShoulderRt
+  - first:
+      1: 100066
+    second: JtClavicleRt
+  - first:
+      1: 100068
+    second: JtEyeLf
+  - first:
+      1: 100070
+    second: JtLowerNoseLf
+  - first:
+      1: 100072
+    second: JtUpperNoseLf
+  - first:
+      1: 100074
+    second: JtEyeRt
+  - first:
+      1: 100076
+    second: JtEyelidLowerRt
+  - first:
+      1: 100078
+    second: JtEyelidUpperLf
+  - first:
+      1: 100080
+    second: JtEarRt
+  - first:
+      1: 100082
+    second: JtEarLf
+  - first:
+      1: 100084
+    second: JtEyelidUpperRt
+  - first:
+      1: 100086
+    second: JtLowerNoseRt
+  - first:
+      1: 100088
+    second: JtUpperNoseRt
+  - first:
+      1: 100090
+    second: JtEyebrow01Lf
+  - first:
+      1: 100092
+    second: JtEyebrow04Lf
+  - first:
+      1: 100094
+    second: JtEyebrow03Lf
+  - first:
+      1: 100096
+    second: JtEyebrow02Lf
+  - first:
+      1: 100098
+    second: JtBrowParentLf
+  - first:
+      1: 100100
+    second: JtEyelidLowerLf
+  - first:
+      1: 100102
+    second: JtEyebrow03Rt
+  - first:
+      1: 100104
+    second: JtEyebrow02Rt
+  - first:
+      1: 100106
+    second: JtEyebrow04Rt
+  - first:
+      1: 100108
+    second: JtEyebrow01Rt
+  - first:
+      1: 100110
+    second: JtBrowParentRt
+  - first:
+      1: 100112
+    second: JtLipCornerRt
+  - first:
+      1: 100114
+    second: JtCheekLowerLf
+  - first:
+      1: 100116
+    second: JtLipCornerLf
+  - first:
+      1: 100118
+    second: JtCheekUpperRt
+  - first:
+      1: 100120
+    second: JtLipLowerLf
+  - first:
+      1: 100122
+    second: JtLipLowerMid
+  - first:
+      1: 100124
+    second: JtLipLowerRt
+  - first:
+      1: 100126
+    second: JtJawFront
+  - first:
+      1: 100128
+    second: JtJawBack
+  - first:
+      1: 100130
+    second: JtTongueC
+  - first:
+      1: 100132
+    second: JtTongueB
+  - first:
+      1: 100134
+    second: JtTongueA
+  - first:
+      1: 100136
+    second: JtJaw
+  - first:
+      1: 100138
+    second: JtLipUpperLf
+  - first:
+      1: 100140
+    second: JtCheekUpperLf
+  - first:
+      1: 100142
+    second: JtLipUpperRt
+  - first:
+      1: 100144
+    second: JtLipUpperMid
+  - first:
+      1: 100146
+    second: JtCheekLowerRt
+  - first:
+      1: 100148
+    second: JtSkullB
+  - first:
+      1: 100150
+    second: JtSkullA
+  - first:
+      1: 100152
+    second: JtNeckB
+  - first:
+      1: 100154
+    second: JtNeckA
+  - first:
+      1: 100156
+    second: JtMiddleDLf
+  - first:
+      1: 100158
+    second: JtMiddleCLf
+  - first:
+      1: 100160
+    second: JtMiddleBLf
+  - first:
+      1: 100162
+    second: JtMiddleALf
+  - first:
+      1: 100164
+    second: JtIndexDLf
+  - first:
+      1: 100166
+    second: JtIndexCLf
+  - first:
+      1: 100168
+    second: JtIndexBLf
+  - first:
+      1: 100170
+    second: JtIndexALf
+  - first:
+      1: 100172
+    second: JtRingDLf
+  - first:
+      1: 100174
+    second: JtRingCLf
+  - first:
+      1: 100176
+    second: JtRingBLf
+  - first:
+      1: 100178
+    second: JtRingALf
+  - first:
+      1: 100180
+    second: JtThumbDLf
+  - first:
+      1: 100182
+    second: JtThumbCLf
+  - first:
+      1: 100184
+    second: JtThumbBLf
+  - first:
+      1: 100186
+    second: JtThumbALf
+  - first:
+      1: 100188
+    second: JtLittleDLf
+  - first:
+      1: 100190
+    second: JtLittleCLf
+  - first:
+      1: 100192
+    second: JtLittleBLf
+  - first:
+      1: 100194
+    second: JtLittleALf
+  - first:
+      1: 100196
+    second: JtWristLf
+  - first:
+      1: 100198
+    second: JtElbowLf
+  - first:
+      1: 100200
+    second: JtShoulderLf
+  - first:
+      1: 100202
+    second: JtClavicleLf
+  - first:
+      1: 100204
+    second: JtSpineC
+  - first:
+      1: 100206
+    second: JtSpineB
+  - first:
+      1: 100208
+    second: JtSpineA
+  - first:
+      1: 100210
+    second: JtHeelLf
+  - first:
+      1: 100212
+    second: JtToeLf
+  - first:
+      1: 100214
+    second: JtBallLf
+  - first:
+      1: 100216
+    second: JtAnkleLf
+  - first:
+      1: 100218
+    second: JtKneeLf
+  - first:
+      1: 100220
+    second: JtHipLf
+  - first:
+      1: 100222
+    second: JtHeelRt
+  - first:
+      1: 100224
+    second: JtToeRt
+  - first:
+      1: 100226
+    second: JtBallRt
+  - first:
+      1: 100228
+    second: JtAnkleRt
+  - first:
+      1: 100230
+    second: JtKneeRt
+  - first:
+      1: 100232
+    second: JtHipRt
+  - first:
+      1: 100234
+    second: JtPelvis
+  - first:
+      1: 100236
+    second: JtRoot
+  - first:
+      1: 100238
+    second: CharacterRoot
+  - first:
+      1: 100240
+    second: //RootNode
+  - first:
+      1: 100242
+    second: IctUnitySettings
+  - first:
+      1: 100244
+    second: SknRig:Msh:polySurface36 1
+  - first:
+      1: 100246
+    second: SknRig:Msh:polySurface35 1
+  - first:
+      1: 100248
+    second: SknRig:Msh:polySurface34 1
+  - first:
+      1: 100250
+    second: SknRig:Msh:polySurface33 1
+  - first:
+      1: 100252
+    second: SknRig:Msh:polySurface32 1
+  - first:
+      1: 100254
+    second: SknRig:Msh:polySurface31 1
+  - first:
+      1: 100256
+    second: SknRig:Msh:polySurface30 1
+  - first:
+      1: 100258
+    second: SknRig:Msh:polySurface29 1
+  - first:
+      1: 100260
+    second: SknRig:Msh:polySurface28 1
+  - first:
+      1: 100262
+    second: SknRig:Msh:polySurface27 1
+  - first:
+      1: 100264
+    second: SknRig:Msh:polySurface26 1
+  - first:
+      1: 100266
+    second: SknRig:Msh:polySurface25 1
+  - first:
+      1: 100268
+    second: SknRig:Msh:polySurface24 1
+  - first:
+      1: 100270
+    second: SknRig:Msh:polySurface23 1
+  - first:
+      1: 100272
+    second: SknRig:Msh:polySurface22 1
+  - first:
+      1: 100274
+    second: SknRig:Msh:polySurface21 1
+  - first:
+      1: 100276
+    second: SknRig:Msh:polySurface20 1
+  - first:
+      1: 100278
+    second: SknRig:Msh:polySurface19 1
+  - first:
+      1: 100280
+    second: SknRig:Msh:polySurface18 1
+  - first:
+      1: 100282
+    second: SknRig:Msh:polySurface17 1
+  - first:
+      1: 100284
+    second: SknRig:Msh:polySurface16 1
+  - first:
+      1: 100286
+    second: SknRig:Msh:polySurface15 1
+  - first:
+      1: 100288
+    second: SknRig:Msh:polySurface14 1
+  - first:
+      1: 100290
+    second: SknRig:Msh:polySurface13 1
+  - first:
+      1: 100292
+    second: SknRig:Msh:polySurface12 1
+  - first:
+      1: 100294
+    second: SknRig:Msh:polySurface11 1
+  - first:
+      1: 100296
+    second: SknRig:Msh:polySurface10 1
+  - first:
+      1: 100298
+    second: SknRig:Msh:polySurface9 1
+  - first:
+      1: 100300
+    second: SknRig:Msh:polySurface8 1
+  - first:
+      1: 100302
+    second: SknRig:Msh:polySurface7 1
+  - first:
+      1: 100304
+    second: SknRig:Msh:polySurface6 1
+  - first:
+      1: 100306
+    second: SknRig:Msh:polySurface5 1
+  - first:
+      1: 100308
+    second: SknRig:Msh:polySurface4 1
+  - first:
+      1: 100310
+    second: SknRig:Msh:polySurface3 1
+  - first:
+      1: 100312
+    second: SknRig:Msh:polySurface2 1
+  - first:
+      1: 100314
+    second: ChrFemaleWriter_Hair1
+  - first:
+      1: 100316
+    second: SknRig:Msh:polySurface36
+  - first:
+      1: 100318
+    second: SknRig:Msh:polySurface35
+  - first:
+      1: 100320
+    second: SknRig:Msh:polySurface34
+  - first:
+      1: 100322
+    second: SknRig:Msh:polySurface33
+  - first:
+      1: 100324
+    second: SknRig:Msh:polySurface32
+  - first:
+      1: 100326
+    second: SknRig:Msh:polySurface31
+  - first:
+      1: 100328
+    second: SknRig:Msh:polySurface30
+  - first:
+      1: 100330
+    second: SknRig:Msh:polySurface29
+  - first:
+      1: 100332
+    second: SknRig:Msh:polySurface28
+  - first:
+      1: 100334
+    second: SknRig:Msh:polySurface27
+  - first:
+      1: 100336
+    second: SknRig:Msh:polySurface26
+  - first:
+      1: 100338
+    second: SknRig:Msh:polySurface25
+  - first:
+      1: 100340
+    second: SknRig:Msh:polySurface24
+  - first:
+      1: 100342
+    second: SknRig:Msh:polySurface23
+  - first:
+      1: 100344
+    second: SknRig:Msh:polySurface22
+  - first:
+      1: 100346
+    second: SknRig:Msh:polySurface21
+  - first:
+      1: 100348
+    second: SknRig:Msh:polySurface20
+  - first:
+      1: 100350
+    second: SknRig:Msh:polySurface19
+  - first:
+      1: 100352
+    second: SknRig:Msh:polySurface18
+  - first:
+      1: 100354
+    second: SknRig:Msh:polySurface17
+  - first:
+      1: 100356
+    second: SknRig:Msh:polySurface16
+  - first:
+      1: 100358
+    second: SknRig:Msh:polySurface15
+  - first:
+      1: 100360
+    second: SknRig:Msh:polySurface14
+  - first:
+      1: 100362
+    second: SknRig:Msh:polySurface13
+  - first:
+      1: 100364
+    second: SknRig:Msh:polySurface12
+  - first:
+      1: 100366
+    second: SknRig:Msh:polySurface11
+  - first:
+      1: 100368
+    second: SknRig:Msh:polySurface10
+  - first:
+      1: 100370
+    second: SknRig:Msh:polySurface9
+  - first:
+      1: 100372
+    second: SknRig:Msh:polySurface8
+  - first:
+      1: 100374
+    second: SknRig:Msh:polySurface7
+  - first:
+      1: 100376
+    second: SknRig:Msh:polySurface6
+  - first:
+      1: 100378
+    second: SknRig:Msh:polySurface5
+  - first:
+      1: 100380
+    second: SknRig:Msh:polySurface4
+  - first:
+      1: 100382
+    second: SknRig:Msh:polySurface3
+  - first:
+      1: 100384
+    second: SknRig:Msh:polySurface2
+  - first:
+      1: 100386
+    second: ChrFemaleWriter_Hair
+  - first:
+      1: 100388
+    second: JtUpperArmTwistARt
+  - first:
+      1: 100390
+    second: JtForearmTwistARt
+  - first:
+      1: 100392
+    second: JtForearmTwistBRt
+  - first:
+      1: 100394
+    second: JtUpperArmTwistBRt
+  - first:
+      1: 100396
+    second: JtUpperFaceParent
+  - first:
+      1: 100398
+    second: JtLowerFaceParent
+  - first:
+      1: 100400
+    second: JtForearmTwistBLf
+  - first:
+      1: 100402
+    second: JtForearmTwistALf
+  - first:
+      1: 100404
+    second: JtUpperArmTwistBLf
+  - first:
+      1: 100406
+    second: JtUpperArmTwistALf
+  - first:
+      1: 100408
+    second: polySurface10
+  - first:
+      1: 100410
+    second: polySurface11
+  - first:
+      1: 100412
+    second: polySurface12
+  - first:
+      1: 100414
+    second: polySurface13
+  - first:
+      1: 100416
+    second: polySurface14
+  - first:
+      1: 100418
+    second: polySurface15
+  - first:
+      1: 100420
+    second: polySurface16
+  - first:
+      1: 100422
+    second: polySurface17
+  - first:
+      1: 100424
+    second: polySurface18
+  - first:
+      1: 100426
+    second: polySurface19
+  - first:
+      1: 100428
+    second: polySurface2
+  - first:
+      1: 100430
+    second: polySurface20
+  - first:
+      1: 100432
+    second: polySurface21
+  - first:
+      1: 100434
+    second: polySurface22
+  - first:
+      1: 100436
+    second: polySurface23
+  - first:
+      1: 100438
+    second: polySurface24
+  - first:
+      1: 100440
+    second: polySurface25
+  - first:
+      1: 100442
+    second: polySurface26
+  - first:
+      1: 100444
+    second: polySurface27
+  - first:
+      1: 100446
+    second: polySurface28
+  - first:
+      1: 100448
+    second: polySurface29
+  - first:
+      1: 100450
+    second: polySurface3
+  - first:
+      1: 100452
+    second: polySurface30
+  - first:
+      1: 100454
+    second: polySurface31
+  - first:
+      1: 100456
+    second: polySurface32
+  - first:
+      1: 100458
+    second: polySurface33
+  - first:
+      1: 100460
+    second: polySurface34
+  - first:
+      1: 100462
+    second: polySurface35
+  - first:
+      1: 100464
+    second: polySurface36
+  - first:
+      1: 100466
+    second: polySurface4
+  - first:
+      1: 100468
+    second: polySurface5
+  - first:
+      1: 100470
+    second: polySurface6
+  - first:
+      1: 100472
+    second: polySurface7
+  - first:
+      1: 100474
+    second: polySurface8
+  - first:
+      1: 100476
+    second: polySurface9
+  - first:
+      1: 100478
+    second: EyeballLf
+  - first:
+      1: 100480
+    second: EyeballRt
+  - first:
+      1: 100482
+    second: TeethLower
+  - first:
+      1: 100484
+    second: TeethUpper
+  - first:
+      1: 100486
+    second: Tongue
+  - first:
+      1: 100488
+    second: Body
+  - first:
+      1: 100490
+    second: EyeLf
+  - first:
+      1: 100492
+    second: EyeRt
+  - first:
+      1: 100494
+    second: EyeShadowLf
+  - first:
+      1: 100496
+    second: EyeShadowRt
+  - first:
+      1: 100498
+    second: EyeShellLf
+  - first:
+      1: 100500
+    second: EyeShellRt
+  - first:
+      1: 100502
+    second: _IctSettings_
+  - first:
+      1: 100504
+    second: ChrDefSettings
+  - first:
+      1: 100506
+    second: PndMorphTargetCollectorNode
+  - first:
+      4: 400000
+    second: MorphTargets
+  - first:
+      4: 400002
+    second: EyesTeethTongue
+  - first:
+      4: 400004
+    second: EyelashRtTop
+  - first:
+      4: 400006
+    second: EyelashRtBottom
+  - first:
+      4: 400008
+    second: EyelashLfTop
+  - first:
+      4: 400010
+    second: EyelashLfBottom
+  - first:
+      4: 400012
+    second: Body1
+  - first:
+      4: 400014
+    second: MshRef
+  - first:
+      4: 400016
+    second: SkinnedMesh
+  - first:
+      4: 400018
+    second: Mesh
+  - first:
+      4: 400020
+    second: JtIndexDRt
+  - first:
+      4: 400022
+    second: JtIndexCRt
+  - first:
+      4: 400024
+    second: JtIndexBRt
+  - first:
+      4: 400026
+    second: JtIndexARt
+  - first:
+      4: 400028
+    second: JtLittleDRt
+  - first:
+      4: 400030
+    second: JtLittleCRt
+  - first:
+      4: 400032
+    second: JtLittleBRt
+  - first:
+      4: 400034
+    second: JtLittleARt
+  - first:
+      4: 400036
+    second: JtMiddleDRt
+  - first:
+      4: 400038
+    second: JtMiddleCRt
+  - first:
+      4: 400040
+    second: JtMiddleBRt
+  - first:
+      4: 400042
+    second: JtMiddleARt
+  - first:
+      4: 400044
+    second: JtRingDRt
+  - first:
+      4: 400046
+    second: JtRingCRt
+  - first:
+      4: 400048
+    second: JtRingBRt
+  - first:
+      4: 400050
+    second: JtRingARt
+  - first:
+      4: 400052
+    second: JtThumbDRt
+  - first:
+      4: 400054
+    second: JtThumbCRt
+  - first:
+      4: 400056
+    second: JtThumbBRt
+  - first:
+      4: 400058
+    second: JtThumbARt
+  - first:
+      4: 400060
+    second: JtWristRt
+  - first:
+      4: 400062
+    second: JtElbowRt
+  - first:
+      4: 400064
+    second: JtShoulderRt
+  - first:
+      4: 400066
+    second: JtClavicleRt
+  - first:
+      4: 400068
+    second: JtEyeLf
+  - first:
+      4: 400070
+    second: JtLowerNoseLf
+  - first:
+      4: 400072
+    second: JtUpperNoseLf
+  - first:
+      4: 400074
+    second: JtEyeRt
+  - first:
+      4: 400076
+    second: JtEyelidLowerRt
+  - first:
+      4: 400078
+    second: JtEyelidUpperLf
+  - first:
+      4: 400080
+    second: JtEarRt
+  - first:
+      4: 400082
+    second: JtEarLf
+  - first:
+      4: 400084
+    second: JtEyelidUpperRt
+  - first:
+      4: 400086
+    second: JtLowerNoseRt
+  - first:
+      4: 400088
+    second: JtUpperNoseRt
+  - first:
+      4: 400090
+    second: JtEyebrow01Lf
+  - first:
+      4: 400092
+    second: JtEyebrow04Lf
+  - first:
+      4: 400094
+    second: JtEyebrow03Lf
+  - first:
+      4: 400096
+    second: JtEyebrow02Lf
+  - first:
+      4: 400098
+    second: JtBrowParentLf
+  - first:
+      4: 400100
+    second: JtEyelidLowerLf
+  - first:
+      4: 400102
+    second: JtEyebrow03Rt
+  - first:
+      4: 400104
+    second: JtEyebrow02Rt
+  - first:
+      4: 400106
+    second: JtEyebrow04Rt
+  - first:
+      4: 400108
+    second: JtEyebrow01Rt
+  - first:
+      4: 400110
+    second: JtBrowParentRt
+  - first:
+      4: 400112
+    second: JtLipCornerRt
+  - first:
+      4: 400114
+    second: JtCheekLowerLf
+  - first:
+      4: 400116
+    second: JtLipCornerLf
+  - first:
+      4: 400118
+    second: JtCheekUpperRt
+  - first:
+      4: 400120
+    second: JtLipLowerLf
+  - first:
+      4: 400122
+    second: JtLipLowerMid
+  - first:
+      4: 400124
+    second: JtLipLowerRt
+  - first:
+      4: 400126
+    second: JtJawFront
+  - first:
+      4: 400128
+    second: JtJawBack
+  - first:
+      4: 400130
+    second: JtTongueC
+  - first:
+      4: 400132
+    second: JtTongueB
+  - first:
+      4: 400134
+    second: JtTongueA
+  - first:
+      4: 400136
+    second: JtJaw
+  - first:
+      4: 400138
+    second: JtLipUpperLf
+  - first:
+      4: 400140
+    second: JtCheekUpperLf
+  - first:
+      4: 400142
+    second: JtLipUpperRt
+  - first:
+      4: 400144
+    second: JtLipUpperMid
+  - first:
+      4: 400146
+    second: JtCheekLowerRt
+  - first:
+      4: 400148
+    second: JtSkullB
+  - first:
+      4: 400150
+    second: JtSkullA
+  - first:
+      4: 400152
+    second: JtNeckB
+  - first:
+      4: 400154
+    second: JtNeckA
+  - first:
+      4: 400156
+    second: JtMiddleDLf
+  - first:
+      4: 400158
+    second: JtMiddleCLf
+  - first:
+      4: 400160
+    second: JtMiddleBLf
+  - first:
+      4: 400162
+    second: JtMiddleALf
+  - first:
+      4: 400164
+    second: JtIndexDLf
+  - first:
+      4: 400166
+    second: JtIndexCLf
+  - first:
+      4: 400168
+    second: JtIndexBLf
+  - first:
+      4: 400170
+    second: JtIndexALf
+  - first:
+      4: 400172
+    second: JtRingDLf
+  - first:
+      4: 400174
+    second: JtRingCLf
+  - first:
+      4: 400176
+    second: JtRingBLf
+  - first:
+      4: 400178
+    second: JtRingALf
+  - first:
+      4: 400180
+    second: JtThumbDLf
+  - first:
+      4: 400182
+    second: JtThumbCLf
+  - first:
+      4: 400184
+    second: JtThumbBLf
+  - first:
+      4: 400186
+    second: JtThumbALf
+  - first:
+      4: 400188
+    second: JtLittleDLf
+  - first:
+      4: 400190
+    second: JtLittleCLf
+  - first:
+      4: 400192
+    second: JtLittleBLf
+  - first:
+      4: 400194
+    second: JtLittleALf
+  - first:
+      4: 400196
+    second: JtWristLf
+  - first:
+      4: 400198
+    second: JtElbowLf
+  - first:
+      4: 400200
+    second: JtShoulderLf
+  - first:
+      4: 400202
+    second: JtClavicleLf
+  - first:
+      4: 400204
+    second: JtSpineC
+  - first:
+      4: 400206
+    second: JtSpineB
+  - first:
+      4: 400208
+    second: JtSpineA
+  - first:
+      4: 400210
+    second: JtHeelLf
+  - first:
+      4: 400212
+    second: JtToeLf
+  - first:
+      4: 400214
+    second: JtBallLf
+  - first:
+      4: 400216
+    second: JtAnkleLf
+  - first:
+      4: 400218
+    second: JtKneeLf
+  - first:
+      4: 400220
+    second: JtHipLf
+  - first:
+      4: 400222
+    second: JtHeelRt
+  - first:
+      4: 400224
+    second: JtToeRt
+  - first:
+      4: 400226
+    second: JtBallRt
+  - first:
+      4: 400228
+    second: JtAnkleRt
+  - first:
+      4: 400230
+    second: JtKneeRt
+  - first:
+      4: 400232
+    second: JtHipRt
+  - first:
+      4: 400234
+    second: JtPelvis
+  - first:
+      4: 400236
+    second: JtRoot
+  - first:
+      4: 400238
+    second: CharacterRoot
+  - first:
+      4: 400240
+    second: //RootNode
+  - first:
+      4: 400242
+    second: IctUnitySettings
+  - first:
+      4: 400244
+    second: SknRig:Msh:polySurface36 1
+  - first:
+      4: 400246
+    second: SknRig:Msh:polySurface35 1
+  - first:
+      4: 400248
+    second: SknRig:Msh:polySurface34 1
+  - first:
+      4: 400250
+    second: SknRig:Msh:polySurface33 1
+  - first:
+      4: 400252
+    second: SknRig:Msh:polySurface32 1
+  - first:
+      4: 400254
+    second: SknRig:Msh:polySurface31 1
+  - first:
+      4: 400256
+    second: SknRig:Msh:polySurface30 1
+  - first:
+      4: 400258
+    second: SknRig:Msh:polySurface29 1
+  - first:
+      4: 400260
+    second: SknRig:Msh:polySurface28 1
+  - first:
+      4: 400262
+    second: SknRig:Msh:polySurface27 1
+  - first:
+      4: 400264
+    second: SknRig:Msh:polySurface26 1
+  - first:
+      4: 400266
+    second: SknRig:Msh:polySurface25 1
+  - first:
+      4: 400268
+    second: SknRig:Msh:polySurface24 1
+  - first:
+      4: 400270
+    second: SknRig:Msh:polySurface23 1
+  - first:
+      4: 400272
+    second: SknRig:Msh:polySurface22 1
+  - first:
+      4: 400274
+    second: SknRig:Msh:polySurface21 1
+  - first:
+      4: 400276
+    second: SknRig:Msh:polySurface20 1
+  - first:
+      4: 400278
+    second: SknRig:Msh:polySurface19 1
+  - first:
+      4: 400280
+    second: SknRig:Msh:polySurface18 1
+  - first:
+      4: 400282
+    second: SknRig:Msh:polySurface17 1
+  - first:
+      4: 400284
+    second: SknRig:Msh:polySurface16 1
+  - first:
+      4: 400286
+    second: SknRig:Msh:polySurface15 1
+  - first:
+      4: 400288
+    second: SknRig:Msh:polySurface14 1
+  - first:
+      4: 400290
+    second: SknRig:Msh:polySurface13 1
+  - first:
+      4: 400292
+    second: SknRig:Msh:polySurface12 1
+  - first:
+      4: 400294
+    second: SknRig:Msh:polySurface11 1
+  - first:
+      4: 400296
+    second: SknRig:Msh:polySurface10 1
+  - first:
+      4: 400298
+    second: SknRig:Msh:polySurface9 1
+  - first:
+      4: 400300
+    second: SknRig:Msh:polySurface8 1
+  - first:
+      4: 400302
+    second: SknRig:Msh:polySurface7 1
+  - first:
+      4: 400304
+    second: SknRig:Msh:polySurface6 1
+  - first:
+      4: 400306
+    second: SknRig:Msh:polySurface5 1
+  - first:
+      4: 400308
+    second: SknRig:Msh:polySurface4 1
+  - first:
+      4: 400310
+    second: SknRig:Msh:polySurface3 1
+  - first:
+      4: 400312
+    second: SknRig:Msh:polySurface2 1
+  - first:
+      4: 400314
+    second: ChrFemaleWriter_Hair1
+  - first:
+      4: 400316
+    second: SknRig:Msh:polySurface36
+  - first:
+      4: 400318
+    second: SknRig:Msh:polySurface35
+  - first:
+      4: 400320
+    second: SknRig:Msh:polySurface34
+  - first:
+      4: 400322
+    second: SknRig:Msh:polySurface33
+  - first:
+      4: 400324
+    second: SknRig:Msh:polySurface32
+  - first:
+      4: 400326
+    second: SknRig:Msh:polySurface31
+  - first:
+      4: 400328
+    second: SknRig:Msh:polySurface30
+  - first:
+      4: 400330
+    second: SknRig:Msh:polySurface29
+  - first:
+      4: 400332
+    second: SknRig:Msh:polySurface28
+  - first:
+      4: 400334
+    second: SknRig:Msh:polySurface27
+  - first:
+      4: 400336
+    second: SknRig:Msh:polySurface26
+  - first:
+      4: 400338
+    second: SknRig:Msh:polySurface25
+  - first:
+      4: 400340
+    second: SknRig:Msh:polySurface24
+  - first:
+      4: 400342
+    second: SknRig:Msh:polySurface23
+  - first:
+      4: 400344
+    second: SknRig:Msh:polySurface22
+  - first:
+      4: 400346
+    second: SknRig:Msh:polySurface21
+  - first:
+      4: 400348
+    second: SknRig:Msh:polySurface20
+  - first:
+      4: 400350
+    second: SknRig:Msh:polySurface19
+  - first:
+      4: 400352
+    second: SknRig:Msh:polySurface18
+  - first:
+      4: 400354
+    second: SknRig:Msh:polySurface17
+  - first:
+      4: 400356
+    second: SknRig:Msh:polySurface16
+  - first:
+      4: 400358
+    second: SknRig:Msh:polySurface15
+  - first:
+      4: 400360
+    second: SknRig:Msh:polySurface14
+  - first:
+      4: 400362
+    second: SknRig:Msh:polySurface13
+  - first:
+      4: 400364
+    second: SknRig:Msh:polySurface12
+  - first:
+      4: 400366
+    second: SknRig:Msh:polySurface11
+  - first:
+      4: 400368
+    second: SknRig:Msh:polySurface10
+  - first:
+      4: 400370
+    second: SknRig:Msh:polySurface9
+  - first:
+      4: 400372
+    second: SknRig:Msh:polySurface8
+  - first:
+      4: 400374
+    second: SknRig:Msh:polySurface7
+  - first:
+      4: 400376
+    second: SknRig:Msh:polySurface6
+  - first:
+      4: 400378
+    second: SknRig:Msh:polySurface5
+  - first:
+      4: 400380
+    second: SknRig:Msh:polySurface4
+  - first:
+      4: 400382
+    second: SknRig:Msh:polySurface3
+  - first:
+      4: 400384
+    second: SknRig:Msh:polySurface2
+  - first:
+      4: 400386
+    second: ChrFemaleWriter_Hair
+  - first:
+      4: 400388
+    second: JtUpperArmTwistARt
+  - first:
+      4: 400390
+    second: JtForearmTwistARt
+  - first:
+      4: 400392
+    second: JtForearmTwistBRt
+  - first:
+      4: 400394
+    second: JtUpperArmTwistBRt
+  - first:
+      4: 400396
+    second: JtUpperFaceParent
+  - first:
+      4: 400398
+    second: JtLowerFaceParent
+  - first:
+      4: 400400
+    second: JtForearmTwistBLf
+  - first:
+      4: 400402
+    second: JtForearmTwistALf
+  - first:
+      4: 400404
+    second: JtUpperArmTwistBLf
+  - first:
+      4: 400406
+    second: JtUpperArmTwistALf
+  - first:
+      4: 400408
+    second: polySurface10
+  - first:
+      4: 400410
+    second: polySurface11
+  - first:
+      4: 400412
+    second: polySurface12
+  - first:
+      4: 400414
+    second: polySurface13
+  - first:
+      4: 400416
+    second: polySurface14
+  - first:
+      4: 400418
+    second: polySurface15
+  - first:
+      4: 400420
+    second: polySurface16
+  - first:
+      4: 400422
+    second: polySurface17
+  - first:
+      4: 400424
+    second: polySurface18
+  - first:
+      4: 400426
+    second: polySurface19
+  - first:
+      4: 400428
+    second: polySurface2
+  - first:
+      4: 400430
+    second: polySurface20
+  - first:
+      4: 400432
+    second: polySurface21
+  - first:
+      4: 400434
+    second: polySurface22
+  - first:
+      4: 400436
+    second: polySurface23
+  - first:
+      4: 400438
+    second: polySurface24
+  - first:
+      4: 400440
+    second: polySurface25
+  - first:
+      4: 400442
+    second: polySurface26
+  - first:
+      4: 400444
+    second: polySurface27
+  - first:
+      4: 400446
+    second: polySurface28
+  - first:
+      4: 400448
+    second: polySurface29
+  - first:
+      4: 400450
+    second: polySurface3
+  - first:
+      4: 400452
+    second: polySurface30
+  - first:
+      4: 400454
+    second: polySurface31
+  - first:
+      4: 400456
+    second: polySurface32
+  - first:
+      4: 400458
+    second: polySurface33
+  - first:
+      4: 400460
+    second: polySurface34
+  - first:
+      4: 400462
+    second: polySurface35
+  - first:
+      4: 400464
+    second: polySurface36
+  - first:
+      4: 400466
+    second: polySurface4
+  - first:
+      4: 400468
+    second: polySurface5
+  - first:
+      4: 400470
+    second: polySurface6
+  - first:
+      4: 400472
+    second: polySurface7
+  - first:
+      4: 400474
+    second: polySurface8
+  - first:
+      4: 400476
+    second: polySurface9
+  - first:
+      4: 400478
+    second: EyeballLf
+  - first:
+      4: 400480
+    second: EyeballRt
+  - first:
+      4: 400482
+    second: TeethLower
+  - first:
+      4: 400484
+    second: TeethUpper
+  - first:
+      4: 400486
+    second: Tongue
+  - first:
+      4: 400488
+    second: Body
+  - first:
+      4: 400490
+    second: EyeLf
+  - first:
+      4: 400492
+    second: EyeRt
+  - first:
+      4: 400494
+    second: EyeShadowLf
+  - first:
+      4: 400496
+    second: EyeShadowRt
+  - first:
+      4: 400498
+    second: EyeShellLf
+  - first:
+      4: 400500
+    second: EyeShellRt
+  - first:
+      4: 400502
+    second: _IctSettings_
+  - first:
+      4: 400504
+    second: ChrDefSettings
+  - first:
+      4: 400506
+    second: PndMorphTargetCollectorNode
+  - first:
+      43: 4300000
+    second: Body1
+  - first:
+      43: 4300002
+    second: EyelashLfBottom
+  - first:
+      43: 4300004
+    second: EyelashLfTop
+  - first:
+      43: 4300006
+    second: EyelashRtBottom
+  - first:
+      43: 4300008
+    second: EyelashRtTop
+  - first:
+      43: 4300010
+    second: EyesTeethTongue
+  - first:
+      43: 4300012
+    second: ChrFemaleWriter_Hair
+  - first:
+      43: 4300014
+    second: SknRig:Msh:polySurface2
+  - first:
+      43: 4300016
+    second: SknRig:Msh:polySurface3
+  - first:
+      43: 4300018
+    second: SknRig:Msh:polySurface4
+  - first:
+      43: 4300020
+    second: SknRig:Msh:polySurface5
+  - first:
+      43: 4300022
+    second: SknRig:Msh:polySurface6
+  - first:
+      43: 4300024
+    second: SknRig:Msh:polySurface7
+  - first:
+      43: 4300026
+    second: SknRig:Msh:polySurface8
+  - first:
+      43: 4300028
+    second: SknRig:Msh:polySurface9
+  - first:
+      43: 4300030
+    second: SknRig:Msh:polySurface10
+  - first:
+      43: 4300032
+    second: SknRig:Msh:polySurface11
+  - first:
+      43: 4300034
+    second: SknRig:Msh:polySurface12
+  - first:
+      43: 4300036
+    second: SknRig:Msh:polySurface13
+  - first:
+      43: 4300038
+    second: SknRig:Msh:polySurface14
+  - first:
+      43: 4300040
+    second: SknRig:Msh:polySurface15
+  - first:
+      43: 4300042
+    second: SknRig:Msh:polySurface16
+  - first:
+      43: 4300044
+    second: SknRig:Msh:polySurface17
+  - first:
+      43: 4300046
+    second: SknRig:Msh:polySurface18
+  - first:
+      43: 4300048
+    second: SknRig:Msh:polySurface19
+  - first:
+      43: 4300050
+    second: SknRig:Msh:polySurface20
+  - first:
+      43: 4300052
+    second: SknRig:Msh:polySurface21
+  - first:
+      43: 4300054
+    second: SknRig:Msh:polySurface22
+  - first:
+      43: 4300056
+    second: SknRig:Msh:polySurface23
+  - first:
+      43: 4300058
+    second: SknRig:Msh:polySurface24
+  - first:
+      43: 4300060
+    second: SknRig:Msh:polySurface25
+  - first:
+      43: 4300062
+    second: SknRig:Msh:polySurface26
+  - first:
+      43: 4300064
+    second: SknRig:Msh:polySurface27
+  - first:
+      43: 4300066
+    second: SknRig:Msh:polySurface28
+  - first:
+      43: 4300068
+    second: SknRig:Msh:polySurface29
+  - first:
+      43: 4300070
+    second: SknRig:Msh:polySurface30
+  - first:
+      43: 4300072
+    second: SknRig:Msh:polySurface31
+  - first:
+      43: 4300074
+    second: SknRig:Msh:polySurface32
+  - first:
+      43: 4300076
+    second: SknRig:Msh:polySurface33
+  - first:
+      43: 4300078
+    second: SknRig:Msh:polySurface34
+  - first:
+      43: 4300080
+    second: SknRig:Msh:polySurface35
+  - first:
+      43: 4300082
+    second: SknRig:Msh:polySurface36
+  - first:
+      43: 4300084
+    second: ChrFemaleWriter_Hair1
+  - first:
+      43: 4300086
+    second: SknRig:Msh:polySurface2
+  - first:
+      43: 4300088
+    second: SknRig:Msh:polySurface3
+  - first:
+      43: 4300090
+    second: SknRig:Msh:polySurface4
+  - first:
+      43: 4300092
+    second: SknRig:Msh:polySurface5
+  - first:
+      43: 4300094
+    second: SknRig:Msh:polySurface6
+  - first:
+      43: 4300096
+    second: SknRig:Msh:polySurface7
+  - first:
+      43: 4300098
+    second: SknRig:Msh:polySurface8
+  - first:
+      43: 4300100
+    second: SknRig:Msh:polySurface9
+  - first:
+      43: 4300102
+    second: SknRig:Msh:polySurface10
+  - first:
+      43: 4300104
+    second: SknRig:Msh:polySurface11
+  - first:
+      43: 4300106
+    second: SknRig:Msh:polySurface12
+  - first:
+      43: 4300108
+    second: SknRig:Msh:polySurface13
+  - first:
+      43: 4300110
+    second: SknRig:Msh:polySurface14
+  - first:
+      43: 4300112
+    second: SknRig:Msh:polySurface15
+  - first:
+      43: 4300114
+    second: SknRig:Msh:polySurface16
+  - first:
+      43: 4300116
+    second: SknRig:Msh:polySurface17
+  - first:
+      43: 4300118
+    second: SknRig:Msh:polySurface18
+  - first:
+      43: 4300120
+    second: SknRig:Msh:polySurface19
+  - first:
+      43: 4300122
+    second: SknRig:Msh:polySurface20
+  - first:
+      43: 4300124
+    second: SknRig:Msh:polySurface21
+  - first:
+      43: 4300126
+    second: SknRig:Msh:polySurface22
+  - first:
+      43: 4300128
+    second: SknRig:Msh:polySurface23
+  - first:
+      43: 4300130
+    second: SknRig:Msh:polySurface24
+  - first:
+      43: 4300132
+    second: SknRig:Msh:polySurface25
+  - first:
+      43: 4300134
+    second: SknRig:Msh:polySurface26
+  - first:
+      43: 4300136
+    second: SknRig:Msh:polySurface27
+  - first:
+      43: 4300138
+    second: SknRig:Msh:polySurface28
+  - first:
+      43: 4300140
+    second: SknRig:Msh:polySurface29
+  - first:
+      43: 4300142
+    second: SknRig:Msh:polySurface30
+  - first:
+      43: 4300144
+    second: SknRig:Msh:polySurface31
+  - first:
+      43: 4300146
+    second: SknRig:Msh:polySurface32
+  - first:
+      43: 4300148
+    second: SknRig:Msh:polySurface33
+  - first:
+      43: 4300150
+    second: SknRig:Msh:polySurface34
+  - first:
+      43: 4300152
+    second: SknRig:Msh:polySurface35
+  - first:
+      43: 4300154
+    second: SknRig:Msh:polySurface36
+  - first:
+      43: 4300156
+    second: polySurface2
+  - first:
+      43: 4300158
+    second: polySurface3
+  - first:
+      43: 4300160
+    second: polySurface4
+  - first:
+      43: 4300162
+    second: polySurface5
+  - first:
+      43: 4300164
+    second: polySurface6
+  - first:
+      43: 4300166
+    second: polySurface7
+  - first:
+      43: 4300168
+    second: polySurface8
+  - first:
+      43: 4300170
+    second: polySurface9
+  - first:
+      43: 4300172
+    second: polySurface10
+  - first:
+      43: 4300174
+    second: polySurface11
+  - first:
+      43: 4300176
+    second: polySurface12
+  - first:
+      43: 4300178
+    second: polySurface13
+  - first:
+      43: 4300180
+    second: polySurface14
+  - first:
+      43: 4300182
+    second: polySurface15
+  - first:
+      43: 4300184
+    second: polySurface16
+  - first:
+      43: 4300186
+    second: polySurface17
+  - first:
+      43: 4300188
+    second: polySurface18
+  - first:
+      43: 4300190
+    second: polySurface19
+  - first:
+      43: 4300192
+    second: polySurface20
+  - first:
+      43: 4300194
+    second: polySurface21
+  - first:
+      43: 4300196
+    second: polySurface22
+  - first:
+      43: 4300198
+    second: polySurface23
+  - first:
+      43: 4300200
+    second: polySurface24
+  - first:
+      43: 4300202
+    second: polySurface25
+  - first:
+      43: 4300204
+    second: polySurface26
+  - first:
+      43: 4300206
+    second: polySurface27
+  - first:
+      43: 4300208
+    second: polySurface28
+  - first:
+      43: 4300210
+    second: polySurface29
+  - first:
+      43: 4300212
+    second: polySurface30
+  - first:
+      43: 4300214
+    second: polySurface31
+  - first:
+      43: 4300216
+    second: polySurface32
+  - first:
+      43: 4300218
+    second: polySurface33
+  - first:
+      43: 4300220
+    second: polySurface34
+  - first:
+      43: 4300222
+    second: polySurface35
+  - first:
+      43: 4300224
+    second: polySurface36
+  - first:
+      43: 4300226
+    second: TeethUpper
+  - first:
+      43: 4300228
+    second: TeethLower
+  - first:
+      43: 4300230
+    second: Tongue
+  - first:
+      43: 4300232
+    second: EyeballLf
+  - first:
+      43: 4300234
+    second: EyeballRt
+  - first:
+      43: 4300236
+    second: EyeLf
+  - first:
+      43: 4300238
+    second: EyeRt
+  - first:
+      43: 4300240
+    second: EyeShellLf
+  - first:
+      43: 4300242
+    second: EyeShellRt
+  - first:
+      43: 4300244
+    second: EyeShadowLf
+  - first:
+      43: 4300246
+    second: EyeShadowRt
+  - first:
+      43: 4300248
+    second: Body
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: EyesTeethTongue
+  - first:
+      137: 13700002
+    second: EyelashRtTop
+  - first:
+      137: 13700004
+    second: EyelashRtBottom
+  - first:
+      137: 13700006
+    second: EyelashLfTop
+  - first:
+      137: 13700008
+    second: EyelashLfBottom
+  - first:
+      137: 13700010
+    second: Body1
+  - first:
+      137: 13700012
+    second: SknRig:Msh:polySurface36 1
+  - first:
+      137: 13700014
+    second: SknRig:Msh:polySurface35 1
+  - first:
+      137: 13700016
+    second: SknRig:Msh:polySurface34 1
+  - first:
+      137: 13700018
+    second: SknRig:Msh:polySurface33 1
+  - first:
+      137: 13700020
+    second: SknRig:Msh:polySurface32 1
+  - first:
+      137: 13700022
+    second: SknRig:Msh:polySurface31 1
+  - first:
+      137: 13700024
+    second: SknRig:Msh:polySurface30 1
+  - first:
+      137: 13700026
+    second: SknRig:Msh:polySurface29 1
+  - first:
+      137: 13700028
+    second: SknRig:Msh:polySurface28 1
+  - first:
+      137: 13700030
+    second: SknRig:Msh:polySurface27 1
+  - first:
+      137: 13700032
+    second: SknRig:Msh:polySurface26 1
+  - first:
+      137: 13700034
+    second: SknRig:Msh:polySurface25 1
+  - first:
+      137: 13700036
+    second: SknRig:Msh:polySurface24 1
+  - first:
+      137: 13700038
+    second: SknRig:Msh:polySurface23 1
+  - first:
+      137: 13700040
+    second: SknRig:Msh:polySurface22 1
+  - first:
+      137: 13700042
+    second: SknRig:Msh:polySurface21 1
+  - first:
+      137: 13700044
+    second: SknRig:Msh:polySurface20 1
+  - first:
+      137: 13700046
+    second: SknRig:Msh:polySurface19 1
+  - first:
+      137: 13700048
+    second: SknRig:Msh:polySurface18 1
+  - first:
+      137: 13700050
+    second: SknRig:Msh:polySurface17 1
+  - first:
+      137: 13700052
+    second: SknRig:Msh:polySurface16 1
+  - first:
+      137: 13700054
+    second: SknRig:Msh:polySurface15 1
+  - first:
+      137: 13700056
+    second: SknRig:Msh:polySurface14 1
+  - first:
+      137: 13700058
+    second: SknRig:Msh:polySurface13 1
+  - first:
+      137: 13700060
+    second: SknRig:Msh:polySurface12 1
+  - first:
+      137: 13700062
+    second: SknRig:Msh:polySurface11 1
+  - first:
+      137: 13700064
+    second: SknRig:Msh:polySurface10 1
+  - first:
+      137: 13700066
+    second: SknRig:Msh:polySurface9 1
+  - first:
+      137: 13700068
+    second: SknRig:Msh:polySurface8 1
+  - first:
+      137: 13700070
+    second: SknRig:Msh:polySurface7 1
+  - first:
+      137: 13700072
+    second: SknRig:Msh:polySurface6 1
+  - first:
+      137: 13700074
+    second: SknRig:Msh:polySurface5 1
+  - first:
+      137: 13700076
+    second: SknRig:Msh:polySurface4 1
+  - first:
+      137: 13700078
+    second: SknRig:Msh:polySurface3 1
+  - first:
+      137: 13700080
+    second: SknRig:Msh:polySurface2 1
+  - first:
+      137: 13700082
+    second: ChrFemaleWriter_Hair1
+  - first:
+      137: 13700084
+    second: SknRig:Msh:polySurface36
+  - first:
+      137: 13700086
+    second: SknRig:Msh:polySurface35
+  - first:
+      137: 13700088
+    second: SknRig:Msh:polySurface34
+  - first:
+      137: 13700090
+    second: SknRig:Msh:polySurface33
+  - first:
+      137: 13700092
+    second: SknRig:Msh:polySurface32
+  - first:
+      137: 13700094
+    second: SknRig:Msh:polySurface31
+  - first:
+      137: 13700096
+    second: SknRig:Msh:polySurface30
+  - first:
+      137: 13700098
+    second: SknRig:Msh:polySurface29
+  - first:
+      137: 13700100
+    second: SknRig:Msh:polySurface28
+  - first:
+      137: 13700102
+    second: SknRig:Msh:polySurface27
+  - first:
+      137: 13700104
+    second: SknRig:Msh:polySurface26
+  - first:
+      137: 13700106
+    second: SknRig:Msh:polySurface25
+  - first:
+      137: 13700108
+    second: SknRig:Msh:polySurface24
+  - first:
+      137: 13700110
+    second: SknRig:Msh:polySurface23
+  - first:
+      137: 13700112
+    second: SknRig:Msh:polySurface22
+  - first:
+      137: 13700114
+    second: SknRig:Msh:polySurface21
+  - first:
+      137: 13700116
+    second: SknRig:Msh:polySurface20
+  - first:
+      137: 13700118
+    second: SknRig:Msh:polySurface19
+  - first:
+      137: 13700120
+    second: SknRig:Msh:polySurface18
+  - first:
+      137: 13700122
+    second: SknRig:Msh:polySurface17
+  - first:
+      137: 13700124
+    second: SknRig:Msh:polySurface16
+  - first:
+      137: 13700126
+    second: SknRig:Msh:polySurface15
+  - first:
+      137: 13700128
+    second: SknRig:Msh:polySurface14
+  - first:
+      137: 13700130
+    second: SknRig:Msh:polySurface13
+  - first:
+      137: 13700132
+    second: SknRig:Msh:polySurface12
+  - first:
+      137: 13700134
+    second: SknRig:Msh:polySurface11
+  - first:
+      137: 13700136
+    second: SknRig:Msh:polySurface10
+  - first:
+      137: 13700138
+    second: SknRig:Msh:polySurface9
+  - first:
+      137: 13700140
+    second: SknRig:Msh:polySurface8
+  - first:
+      137: 13700142
+    second: SknRig:Msh:polySurface7
+  - first:
+      137: 13700144
+    second: SknRig:Msh:polySurface6
+  - first:
+      137: 13700146
+    second: SknRig:Msh:polySurface5
+  - first:
+      137: 13700148
+    second: SknRig:Msh:polySurface4
+  - first:
+      137: 13700150
+    second: SknRig:Msh:polySurface3
+  - first:
+      137: 13700152
+    second: SknRig:Msh:polySurface2
+  - first:
+      137: 13700154
+    second: ChrFemaleWriter_Hair
+  - first:
+      137: 13700156
+    second: polySurface10
+  - first:
+      137: 13700158
+    second: polySurface11
+  - first:
+      137: 13700160
+    second: polySurface12
+  - first:
+      137: 13700162
+    second: polySurface13
+  - first:
+      137: 13700164
+    second: polySurface14
+  - first:
+      137: 13700166
+    second: polySurface15
+  - first:
+      137: 13700168
+    second: polySurface16
+  - first:
+      137: 13700170
+    second: polySurface17
+  - first:
+      137: 13700172
+    second: polySurface18
+  - first:
+      137: 13700174
+    second: polySurface19
+  - first:
+      137: 13700176
+    second: polySurface2
+  - first:
+      137: 13700178
+    second: polySurface20
+  - first:
+      137: 13700180
+    second: polySurface21
+  - first:
+      137: 13700182
+    second: polySurface22
+  - first:
+      137: 13700184
+    second: polySurface23
+  - first:
+      137: 13700186
+    second: polySurface24
+  - first:
+      137: 13700188
+    second: polySurface25
+  - first:
+      137: 13700190
+    second: polySurface26
+  - first:
+      137: 13700192
+    second: polySurface27
+  - first:
+      137: 13700194
+    second: polySurface28
+  - first:
+      137: 13700196
+    second: polySurface29
+  - first:
+      137: 13700198
+    second: polySurface3
+  - first:
+      137: 13700200
+    second: polySurface30
+  - first:
+      137: 13700202
+    second: polySurface31
+  - first:
+      137: 13700204
+    second: polySurface32
+  - first:
+      137: 13700206
+    second: polySurface33
+  - first:
+      137: 13700208
+    second: polySurface34
+  - first:
+      137: 13700210
+    second: polySurface35
+  - first:
+      137: 13700212
+    second: polySurface36
+  - first:
+      137: 13700214
+    second: polySurface4
+  - first:
+      137: 13700216
+    second: polySurface5
+  - first:
+      137: 13700218
+    second: polySurface6
+  - first:
+      137: 13700220
+    second: polySurface7
+  - first:
+      137: 13700222
+    second: polySurface8
+  - first:
+      137: 13700224
+    second: polySurface9
+  - first:
+      137: 13700226
+    second: EyeballLf
+  - first:
+      137: 13700228
+    second: EyeballRt
+  - first:
+      137: 13700230
+    second: TeethLower
+  - first:
+      137: 13700232
+    second: TeethUpper
+  - first:
+      137: 13700234
+    second: Tongue
+  - first:
+      137: 13700236
+    second: Body
+  - first:
+      137: 13700238
+    second: EyeLf
+  - first:
+      137: 13700240
+    second: EyeRt
+  - first:
+      137: 13700242
+    second: EyeShadowLf
+  - first:
+      137: 13700244
+    second: EyeShadowRt
+  - first:
+      137: 13700246
+    second: EyeShellLf
+  - first:
+      137: 13700248
+    second: EyeShellRt
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_EyeShell_Mat
+    second: {fileID: 2100000, guid: e0580754e3eaedb4096ba2fc0b9e85cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_Eye_Mat
+    second: {fileID: 2100000, guid: f7d703b46bce6ec40b37e9c62485d383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_Eyelashes_Mat
+    second: {fileID: 2100000, guid: eef01c8c3c1185c40b50787949e6074c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_Hair_Mat
+    second: {fileID: 2100000, guid: 2f553e4868484ac46a94a347ad07897f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_Hands_Mat
+    second: {fileID: 2100000, guid: 95a86328153a86549a98477a852c3b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_Head_Mat
+    second: {fileID: 2100000, guid: 5f436487e2e99074dae5d03ab5e07799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_LowerBody_Mat
+    second: {fileID: 2100000, guid: 7e2a3387005736141ab2a3a734d0aabe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChrRachel_UpperBody_Mat
+    second: {fileID: 2100000, guid: 754c9ba3f45b016419941785372ea7f5, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: JtRoot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtHipLf
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtHipRt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtKneeLf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtKneeRt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtAnkleLf
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtAnkleRt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtSpineA
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtSpineB
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtNeckA
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtSkullA
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtClavicleLf
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtClavicleRt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtShoulderLf
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtShoulderRt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtElbowLf
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtElbowRt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtWristLf
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtWristRt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtBallLf
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtBallRt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtEyeLf
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtEyeRt
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbALf
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbBLf
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbCLf
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexALf
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexBLf
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexCLf
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleALf
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleBLf
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleCLf
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingALf
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingBLf
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingCLf
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleALf
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleBLf
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleCLf
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbARt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbBRt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbCRt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexARt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexBRt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexCRt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleARt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleBRt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleCRt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingARt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingBRt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingCRt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleARt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleBRt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleCRt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtSpineC
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ChrRachel(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CharacterRoot
+      parentName: ChrRachel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh
+      parentName: CharacterRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SkinnedMesh
+      parentName: Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MshRef
+      parentName: SkinnedMesh
+      position: {x: -0, y: 0.8697143, z: 0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ChrFemaleWriter_Hair
+      parentName: MshRef
+      position: {x: -0.05465673, y: -0.8697143, z: 0.07397689}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface13
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface16
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface17
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface18
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface19
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface21
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface22
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface25
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface26
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface27
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface28
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface29
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface30
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface31
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface32
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface33
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface34
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface35
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface36
+      parentName: ChrFemaleWriter_Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeLf
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeRt
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeShellLf
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeShellRt
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeShadowLf
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeShadowRt
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyelashLfBottom
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyelashRtBottom
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyelashLfTop
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyelashRtTop
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TeethUpper
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TeethLower
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: MshRef
+      position: {x: -0, y: -0.8697143, z: -0.015630212}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRoot
+      parentName: CharacterRoot
+      position: {x: 0, y: 1.0345708, z: -0.04044821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtPelvis
+      parentName: JtRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtHipLf
+      parentName: JtPelvis
+      position: {x: -0.08010014, y: -0.07288241, z: 0.04044821}
+      rotation: {x: 0.47435343, y: 0.4700203, z: 0.52572846, w: 0.526953}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtKneeLf
+      parentName: JtHipLf
+      position: {x: -0.4160234, y: -0.0000000016215941, z: -0.000006915029}
+      rotation: {x: 0.0000000016239089, y: -0.0000081910475, z: 0.035707474, w: 0.9993623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtAnkleLf
+      parentName: JtKneeLf
+      position: {x: -0.41723204, y: -8.094655e-10, z: 0.000006896323}
+      rotation: {x: 0.04820718, y: 0.025098259, z: -0.45094302, w: 0.8908965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtBallLf
+      parentName: JtAnkleLf
+      position: {x: -0.15621142, y: 4.346713e-10, z: 0.000000008735883}
+      rotation: {x: 0, y: 0, z: -0.3466557, w: 0.93799245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtToeLf
+      parentName: JtBallLf
+      position: {x: -0.06457807, y: -1.245468e-10, z: -1.1652901e-12}
+      rotation: {x: -0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtHeelLf
+      parentName: JtToeLf
+      position: {x: -0.25106722, y: -4.842141e-10, z: 4.530438e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtHipRt
+      parentName: JtPelvis
+      position: {x: 0.08010014, y: -0.07288241, z: 0.04044821}
+      rotation: {x: 0.5269454, y: -0.5257219, z: 0.47002867, w: -0.47436073}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtKneeRt
+      parentName: JtHipRt
+      position: {x: 0.4160234, y: 0.0000000020593685, z: 0.000007792736}
+      rotation: {x: 0.0000000018300251, y: -0.000009230717, z: 0.035707474, w: 0.9993623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtAnkleRt
+      parentName: JtKneeRt
+      position: {x: 0.41723204, y: 0.0000000010281063, z: -0.0000077712275}
+      rotation: {x: 0.048193447, y: 0.025092477, z: -0.4509435, w: 0.89089715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtBallRt
+      parentName: JtAnkleRt
+      position: {x: 0.15621142, y: 3.8260753e-10, z: -2.4339836e-11}
+      rotation: {x: 0, y: 0, z: -0.3466557, w: 0.93799245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtToeRt
+      parentName: JtBallRt
+      position: {x: 0.06457807, y: 1.5817049e-10, z: 1.0688339e-13}
+      rotation: {x: 0, y: 0, z: 1, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtHeelRt
+      parentName: JtToeRt
+      position: {x: 0.25106722, y: 6.1493705e-10, z: -5.7532997e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtSpineA
+      parentName: JtRoot
+      position: {x: -0, y: 0.082213, z: 0.015515546}
+      rotation: {x: 0.509637, y: -0.49017364, z: -0.509637, w: 0.49017364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtSpineB
+      parentName: JtSpineA
+      position: {x: -0.08060983, y: 0, z: -6.310887e-32}
+      rotation: {x: 0, y: 0, z: 0.13584565, w: 0.99073005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtSpineC
+      parentName: JtSpineB
+      position: {x: -0.15313104, y: 3.5527136e-17, z: 1.3728583e-17}
+      rotation: {x: 0, y: 0, z: -0.24435127, w: 0.9696868}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtClavicleLf
+      parentName: JtSpineC
+      position: {x: -0.13909116, y: 0.0805256, z: 0.018017756}
+      rotation: {x: 0.001278713, y: 0.72385323, z: 0.21079455, w: 0.65696317}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtShoulderLf
+      parentName: JtClavicleLf
+      position: {x: -0.1567901, y: 1.5099033e-16, z: 0}
+      rotation: {x: 0.081971, y: -0.01712438, z: -0.16218334, w: 0.983201}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperArmTwistALf
+      parentName: JtShoulderLf
+      position: {x: -0.1374209, y: 0.00000007799814, z: -0.000048403377}
+      rotation: {x: 9.56303e-17, y: 8.408983e-18, z: -2.0782695e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperArmTwistBLf
+      parentName: JtShoulderLf
+      position: {x: -0.2748418, y: 0.00000015599628, z: -0.000096806754}
+      rotation: {x: 9.56303e-17, y: 8.408983e-18, z: -2.0782695e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtElbowLf
+      parentName: JtUpperArmTwistBLf
+      position: {x: -0, y: 1.7763568e-17, z: -1.4210854e-16}
+      rotation: {x: -0.00090553577, y: -0.011268489, z: -0.027178828, w: 0.99956673}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtForearmTwistALf
+      parentName: JtElbowLf
+      position: {x: -0.13624336, y: -0.00000007051526, z: 0.000043715783}
+      rotation: {x: 4.3367743e-19, y: 1.3254406e-17, z: -1.5881868e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtForearmTwistBLf
+      parentName: JtElbowLf
+      position: {x: -0.27248672, y: -0.00000014103053, z: 0.00008743157}
+      rotation: {x: 4.3367743e-19, y: 1.3254406e-17, z: -1.5881868e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtWristLf
+      parentName: JtForearmTwistBLf
+      position: {x: 7.105427e-17, y: -3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 4.3367743e-19, y: 1.3254406e-17, z: -1.5881868e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexALf
+      parentName: JtWristLf
+      position: {x: -0.079376966, y: 0.014573621, z: -0.0009120515}
+      rotation: {x: 0.7298756, y: 0.039996598, z: 0.026688967, w: 0.6818868}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexBLf
+      parentName: JtIndexALf
+      position: {x: -0.028131938, y: -0.0000013978325, z: 0.0000020314956}
+      rotation: {x: 0.00008661703, y: 0.006550854, z: -0.025807207, w: 0.9996455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexCLf
+      parentName: JtIndexBLf
+      position: {x: -0.01815239, y: -0.0000016759402, z: 0.0000043415803}
+      rotation: {x: 0.0001727984, y: -0.0046859914, z: -0.040122297, w: 0.9991838}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexDLf
+      parentName: JtIndexCLf
+      position: {x: -0.018565496, y: -0.00000084625896, z: 0.0000120771065}
+      rotation: {x: 4.3895565e-13, y: -2.200498e-12, z: 8.521118e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleALf
+      parentName: JtWristLf
+      position: {x: -0.06955222, y: -0.03288871, z: 0.0060405503}
+      rotation: {x: 0.68026847, y: 0.055431325, z: 0.08073645, w: 0.726391}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleBLf
+      parentName: JtLittleALf
+      position: {x: -0.027595097, y: -0.0000134084175, z: -0.0000016354874}
+      rotation: {x: 0.00011436469, y: -0.026616117, z: 0.006119388, w: 0.999627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleCLf
+      parentName: JtLittleBLf
+      position: {x: -0.013247708, y: -0.000006435949, z: -0.0000014676599}
+      rotation: {x: -0.0015198933, y: 0.007524108, z: -0.035337098, w: 0.999346}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleDLf
+      parentName: JtLittleCLf
+      position: {x: -0.013281882, y: -0.000006471626, z: 0.0000107878595}
+      rotation: {x: 2.0153481e-17, y: -2.0527526e-17, z: -4.3570845e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleALf
+      parentName: JtWristLf
+      position: {x: -0.07973378, y: -0.0023976325, z: -0.0024439201}
+      rotation: {x: 0.7389614, y: 0.053794958, z: 0.038612537, w: 0.67048585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleBLf
+      parentName: JtMiddleALf
+      position: {x: -0.032288555, y: -0.000005364198, z: 0.000002692056}
+      rotation: {x: -2.5904568e-11, y: 0.00000002524574, z: 0.001026012, w: 0.99999946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleCLf
+      parentName: JtMiddleBLf
+      position: {x: -0.019144539, y: -0.0000031803393, z: 0.000001469082}
+      rotation: {x: -5.973023e-10, y: -0.00000012123995, z: -0.004926618, w: 0.9999879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleDLf
+      parentName: JtMiddleCLf
+      position: {x: -0.020819928, y: -0.0000034597153, z: 0.000002261244}
+      rotation: {x: 7.819344e-15, y: 2.5105482e-16, z: -1.5391769e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingALf
+      parentName: JtWristLf
+      position: {x: -0.07618451, y: -0.017888606, z: 0.0003943413}
+      rotation: {x: 0.6971843, y: 0.06740655, z: 0.04986717, w: 0.7119717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingBLf
+      parentName: JtRingALf
+      position: {x: -0.02748342, y: 0.0000076176498, z: -0.0000040353584}
+      rotation: {x: -0.000018870176, y: 0.0015764878, z: 0.021342354, w: 0.999771}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingCLf
+      parentName: JtRingBLf
+      position: {x: -0.020293705, y: 0.000005624858, z: -0.000002979701}
+      rotation: {x: 0.000038153787, y: -0.0011722561, z: -0.04073434, w: 0.9991693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingDLf
+      parentName: JtRingCLf
+      position: {x: -0.019215403, y: 0.0000053259823, z: -0.0000028213751}
+      rotation: {x: 1.2970126e-18, y: 7.3718336e-20, z: 5.4996513e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbALf
+      parentName: JtWristLf
+      position: {x: -0.028614096, y: 0.025301008, z: 0.011424207}
+      rotation: {x: 0.87488526, y: -0.29339772, z: -0.11185493, w: 0.3687574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbBLf
+      parentName: JtThumbALf
+      position: {x: -0.022950005, y: 0.000029280342, z: -0.000005292967}
+      rotation: {x: 1.1955834e-10, y: 0.00000022644934, z: -0.00052800355, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbCLf
+      parentName: JtThumbBLf
+      position: {x: -0.0299462, y: 0.000038206126, z: -0.0000068125814}
+      rotation: {x: -0.000000013933528, y: 0.0000010996037, z: -0.0025637837, w: 0.9999967}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbDLf
+      parentName: JtThumbCLf
+      position: {x: -0.03153601, y: 0.00004023353, z: -0.0000066938856}
+      rotation: {x: -6.1563477e-13, y: 1.0780774e-12, z: -1.6150632e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtClavicleRt
+      parentName: JtSpineC
+      position: {x: -0.13909116, y: 0.0805256, z: -0.018017756}
+      rotation: {x: 0.72385323, y: -0.0012786832, z: -0.65696317, w: 0.21079458}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtShoulderRt
+      parentName: JtClavicleRt
+      position: {x: 0.1567901, y: -1.8651746e-16, z: 5.684342e-16}
+      rotation: {x: 0.08195978, y: -0.017121077, z: -0.16218328, w: 0.983202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperArmTwistARt
+      parentName: JtShoulderRt
+      position: {x: 0.1374209, y: -0.00000007913002, z: 0.000048749454}
+      rotation: {x: 4.8791553e-17, y: -1.7921096e-17, z: -1.3860265e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperArmTwistBRt
+      parentName: JtShoulderRt
+      position: {x: 0.2748418, y: -0.00000015826004, z: 0.00009749891}
+      rotation: {x: 4.8791553e-17, y: -1.7921096e-17, z: -1.3860265e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtElbowRt
+      parentName: JtUpperArmTwistBRt
+      position: {x: 1.4210854e-16, y: 8.881784e-18, z: -2.842171e-16}
+      rotation: {x: -0.0009055953, y: -0.011270454, z: -0.027179142, w: 0.9995667}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtForearmTwistARt
+      parentName: JtElbowRt
+      position: {x: 0.13624336, y: 0.0000000715383, z: -0.000044028347}
+      rotation: {x: 3.6214632e-17, y: -1.3996629e-16, z: 1.3865506e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtForearmTwistBRt
+      parentName: JtElbowRt
+      position: {x: 0.27248672, y: 0.0000001430766, z: -0.000088056695}
+      rotation: {x: 3.6214632e-17, y: -1.3996629e-16, z: 1.3865506e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtWristRt
+      parentName: JtForearmTwistBRt
+      position: {x: -1.4210854e-16, y: -1.7763568e-17, z: 0}
+      rotation: {x: 3.6214632e-17, y: -1.3996629e-16, z: 1.3865506e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexARt
+      parentName: JtWristRt
+      position: {x: 0.079376966, y: -0.014573642, z: 0.00091153133}
+      rotation: {x: 0.7298741, y: 0.03999666, z: 0.026688829, w: 0.68188846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexBRt
+      parentName: JtIndexARt
+      position: {x: 0.028131936, y: 0.000001407858, z: -0.000002046003}
+      rotation: {x: 0.000086609914, y: 0.006551004, z: -0.025807003, w: 0.9996455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexCRt
+      parentName: JtIndexBRt
+      position: {x: 0.018152393, y: 0.0000016879967, z: -0.000004372579}
+      rotation: {x: 0.00017302563, y: -0.004686922, z: -0.040128704, w: 0.9991835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtIndexDRt
+      parentName: JtIndexCRt
+      position: {x: 0.018565489, y: 0.0000008524946, z: -0.000012163482}
+      rotation: {x: 1.679724e-13, y: -8.5924995e-13, z: 5.817779e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleARt
+      parentName: JtWristRt
+      position: {x: 0.06955219, y: 0.032888845, z: -0.0060399664}
+      rotation: {x: 0.68026865, y: 0.05543059, z: 0.08073591, w: 0.72639096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleBRt
+      parentName: JtLittleARt
+      position: {x: 0.027595129, y: 0.000013504287, z: 0.0000016474432}
+      rotation: {x: 0.000114433875, y: -0.026616018, z: 0.006117275, w: 0.99962705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleCRt
+      parentName: JtLittleBRt
+      position: {x: 0.0132476855, y: 0.000006481934, z: 0.0000014781488}
+      rotation: {x: -0.0015201094, y: 0.0075234557, z: -0.035339758, w: 0.9993459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLittleDRt
+      parentName: JtLittleCRt
+      position: {x: 0.013281891, y: 0.000006518025, z: -0.000010864871}
+      rotation: {x: -3.0624476e-18, y: 1.834038e-18, z: -6.412664e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleARt
+      parentName: JtWristRt
+      position: {x: 0.07973378, y: 0.002397573, z: 0.0024437786}
+      rotation: {x: 0.7389614, y: 0.05379509, z: 0.03861229, w: 0.67048585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleBRt
+      parentName: JtMiddleARt
+      position: {x: 0.03228855, y: 0.000005402684, z: -0.0000027112308}
+      rotation: {x: -2.1611844e-10, y: 0.00000021049127, z: 0.0010269333, w: 0.99999946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleCRt
+      parentName: JtMiddleBRt
+      position: {x: 0.019144567, y: 0.0000032031219, z: -0.0000014794418}
+      rotation: {x: -0.0000000015208159, y: -0.00000030864888, z: -0.0049275504, w: 0.9999879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtMiddleDRt
+      parentName: JtMiddleCRt
+      position: {x: 0.020819927, y: 0.000003484476, z: -0.0000022773831}
+      rotation: {x: 8.538283e-14, y: -3.275435e-12, z: 4.8673847e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingARt
+      parentName: JtWristRt
+      position: {x: 0.076184526, y: 0.017888617, z: -0.0003940905}
+      rotation: {x: 0.69718444, y: 0.06740592, z: 0.04986898, w: 0.71197146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingBRt
+      parentName: JtRingARt
+      position: {x: 0.027483417, y: -0.00000767216, z: 0.0000040641316}
+      rotation: {x: -0.000018888797, y: 0.0015759803, z: 0.021342067, w: 0.999771}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingCRt
+      parentName: JtRingBRt
+      position: {x: 0.020293694, y: -0.0000056651047, z: 0.0000030009458}
+      rotation: {x: 0.00003818312, y: -0.0011711931, z: -0.040739655, w: 0.9991692}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtRingDRt
+      parentName: JtRingCRt
+      position: {x: 0.019215409, y: -0.000005364094, z: 0.000002841512}
+      rotation: {x: -6.073898e-18, y: -1.3886338e-17, z: 5.777506e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbARt
+      parentName: JtWristRt
+      position: {x: 0.028614054, y: -0.02530075, z: -0.011424878}
+      rotation: {x: 0.87488467, y: -0.29339686, z: -0.11185937, w: 0.36875826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbBRt
+      parentName: JtThumbARt
+      position: {x: 0.022950014, y: -0.0000294897, z: 0.0000053305284}
+      rotation: {x: -2.7019598e-10, y: -0.00000051123885, z: -0.0005283162, w: 0.9999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbCRt
+      parentName: JtThumbBRt
+      position: {x: 0.029946193, y: -0.00003847941, z: 0.00000686086}
+      rotation: {x: -0.000000014037017, y: 0.0000014077945, z: -0.0025636528, w: 0.9999967}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtThumbDRt
+      parentName: JtThumbCRt
+      position: {x: 0.03153601, y: -0.000040521263, z: 0.0000067413193}
+      rotation: {x: -1.0985831e-13, y: 1.734333e-13, z: -2.846847e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtNeckA
+      parentName: JtSpineC
+      position: {x: -0.16652885, y: -2.842171e-16, z: -9.82547e-18}
+      rotation: {x: 0, y: 0, z: 0.00664009, w: 0.99997795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtNeckB
+      parentName: JtNeckA
+      position: {x: -0.030473754, y: 7.105427e-17, z: -8.861379e-18}
+      rotation: {x: 0, y: 0, z: -0.035486255, w: 0.99937016}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtSkullA
+      parentName: JtNeckB
+      position: {x: -0.031377193, y: -2.1316282e-16, z: -3.567749e-18}
+      rotation: {x: 0, y: 0, z: 0.11386471, w: 0.99349624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLowerFaceParent
+      parentName: JtSkullA
+      position: {x: -0.05356791, y: 0.0052909562, z: -9.010367e-19}
+      rotation: {x: 0.5218859, y: -0.47711125, z: -0.5218859, w: -0.47711125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtCheekLowerLf
+      parentName: JtLowerFaceParent
+      position: {x: -0.044329207, y: -0.024240222, z: 0.090407945}
+      rotation: {x: 0.062344953, y: 0.52534574, z: 0.10000535, w: 0.84268856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtCheekLowerRt
+      parentName: JtLowerFaceParent
+      position: {x: 0.044329207, y: -0.024240222, z: 0.090407945}
+      rotation: {x: 0.84268856, y: -0.10000535, z: 0.52534574, w: -0.062344953}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtCheekUpperLf
+      parentName: JtLowerFaceParent
+      position: {x: -0.034757957, y: 0.0050752317, z: 0.1026298}
+      rotation: {x: -0.01363666, y: 0.58260286, z: -0.019015865, w: 0.8124201}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtCheekUpperRt
+      parentName: JtLowerFaceParent
+      position: {x: 0.034757957, y: 0.0050752317, z: 0.1026298}
+      rotation: {x: 0.81242007, y: 0.019015871, z: 0.5826028, w: 0.0136366645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtJaw
+      parentName: JtLowerFaceParent
+      position: {x: -6.543492e-17, y: -0.012939468, z: 0.021488326}
+      rotation: {x: 0.49148878, y: 0.50836873, z: 0.49148878, w: 0.50836873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtJawBack
+      parentName: JtJaw
+      position: {x: -0.043000203, y: 3.5527136e-17, z: 4.9917127e-17}
+      rotation: {x: 0, y: 0, z: -0.6170074, w: 0.78695744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtJawFront
+      parentName: JtJawBack
+      position: {x: -0.064682215, y: -2.842171e-16, z: -6.3414106e-18}
+      rotation: {x: 0, y: 0, z: -0.52511805, w: 0.85102946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipLowerLf
+      parentName: JtJawFront
+      position: {x: -0.03318654, y: 0.0043718307, z: -0.010296614}
+      rotation: {x: 0.213016, y: -0.15911098, z: -0.029602842, w: 0.9635516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipLowerMid
+      parentName: JtJawFront
+      position: {x: -0.03383457, y: 0, z: -3.9943192e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipLowerRt
+      parentName: JtJawFront
+      position: {x: -0.03318654, y: 0.0043718307, z: 0.010296614}
+      rotation: {x: 0.15911098, y: 0.213016, z: 0.9635516, w: 0.029602844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtTongueA
+      parentName: JtJaw
+      position: {x: -0.027621629, y: 0.02466116, z: 2.969741e-16}
+      rotation: {x: 0, y: 0, z: -0.71050143, w: 0.7036958}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtTongueB
+      parentName: JtTongueA
+      position: {x: -0.020645177, y: 2.842171e-16, z: -5.9836434e-18}
+      rotation: {x: 0, y: 0, z: 0.032400098, w: 0.999475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtTongueC
+      parentName: JtTongueB
+      position: {x: -0.019078301, y: 2.842171e-16, z: -2.3252014e-18}
+      rotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipCornerLf
+      parentName: JtLowerFaceParent
+      position: {x: -0.025194662, y: -0.035361066, z: 0.09389475}
+      rotation: {x: 0.105624005, y: 0.59938556, z: 0.13770236, w: 0.7814209}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipCornerRt
+      parentName: JtLowerFaceParent
+      position: {x: 0.025194662, y: -0.035361066, z: 0.09389475}
+      rotation: {x: 0.7814209, y: -0.13770236, z: 0.59938556, w: -0.105624005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipUpperLf
+      parentName: JtLowerFaceParent
+      position: {x: -0.011742276, y: -0.0347028, z: 0.10563045}
+      rotation: {x: 0.104802646, y: 0.6586158, z: 0.11709845, w: 0.73588693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipUpperMid
+      parentName: JtLowerFaceParent
+      position: {x: -7.6452545e-17, y: -0.033179656, z: 0.11046032}
+      rotation: {x: 0.102801934, y: 0.699594, z: 0.102801934, w: 0.699594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLipUpperRt
+      parentName: JtLowerFaceParent
+      position: {x: 0.011742276, y: -0.0347028, z: 0.10563045}
+      rotation: {x: 0.73588693, y: -0.11709845, z: 0.6586158, w: -0.104802646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtSkullB
+      parentName: JtSkullA
+      position: {x: -0.21081762, y: 1.7763568e-17, z: -3.5549427e-18}
+      rotation: {x: 1, y: -0, z: 0, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperFaceParent
+      parentName: JtSkullA
+      position: {x: -0.103204876, y: -0.031613432, z: -1.7538105e-18}
+      rotation: {x: 0.5218859, y: -0.47711125, z: -0.5218859, w: -0.47711125}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtBrowParentLf
+      parentName: JtUpperFaceParent
+      position: {x: -0.03190202, y: -0.0075264047, z: 0.09328026}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow01Lf
+      parentName: JtBrowParentLf
+      position: {x: 0.021468174, y: -0.008112243, z: 0.044884436}
+      rotation: {x: 0.068293676, y: 0.8432542, z: 0.043038677, w: 0.53141886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow02Lf
+      parentName: JtBrowParentLf
+      position: {x: 0.0076280143, y: -0.0035277817, z: 0.04436036}
+      rotation: {x: 0.029897206, y: 0.7640945, z: 0.025195004, w: 0.64391845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow03Lf
+      parentName: JtBrowParentLf
+      position: {x: -0.008620172, y: -0.0032468636, z: 0.03717237}
+      rotation: {x: 0.026396548, y: 0.6215721, z: 0.033218298, w: 0.7822071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow04Lf
+      parentName: JtBrowParentLf
+      position: {x: -0.01836316, y: -0.009400756, z: 0.027969433}
+      rotation: {x: 0.0648432, y: 0.47051173, z: 0.12014205, w: 0.8717683}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtBrowParentRt
+      parentName: JtUpperFaceParent
+      position: {x: 0.03190202, y: -0.0075264047, z: 0.09328026}
+      rotation: {x: -0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow01Rt
+      parentName: JtBrowParentRt
+      position: {x: 0.021468174, y: 0.008112243, z: 0.044884436}
+      rotation: {x: -0.043038677, y: -0.53141886, z: 0.068293676, w: 0.8432542}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow02Rt
+      parentName: JtBrowParentRt
+      position: {x: 0.007628014, y: 0.0035277817, z: 0.04436036}
+      rotation: {x: -0.025195004, y: -0.64391845, z: 0.029897206, w: 0.7640945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow03Rt
+      parentName: JtBrowParentRt
+      position: {x: -0.008620173, y: 0.0032468636, z: 0.03717237}
+      rotation: {x: -0.033218298, y: -0.7822071, z: 0.026396548, w: 0.6215721}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyebrow04Rt
+      parentName: JtBrowParentRt
+      position: {x: -0.01836316, y: 0.009400756, z: 0.027969433}
+      rotation: {x: 0.12014205, y: 0.8717683, z: -0.0648432, w: -0.47051173}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEarLf
+      parentName: JtUpperFaceParent
+      position: {x: -0.06932848, y: -0.04847901, z: 0.042777196}
+      rotation: {x: 0.07237499, y: 0.26314256, z: 0.2551261, w: 0.92759293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEarRt
+      parentName: JtUpperFaceParent
+      position: {x: 0.06932848, y: -0.04847901, z: 0.042777196}
+      rotation: {x: 0.92759293, y: -0.25512612, z: 0.26314256, w: -0.07237499}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyeLf
+      parentName: JtUpperFaceParent
+      position: {x: -0.028860675, y: -0.024408186, z: 0.11572523}
+      rotation: {x: 0, y: 1.2246469e-16, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyeRt
+      parentName: JtUpperFaceParent
+      position: {x: 0.028860675, y: -0.024408186, z: 0.11572523}
+      rotation: {x: 0, y: 0, z: 1, w: 1.4838703e-13}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyelidLowerLf
+      parentName: JtUpperFaceParent
+      position: {x: -0.028860675, y: -0.03096315, z: 0.13066222}
+      rotation: {x: 0.14516735, y: 0.69204515, z: 0.14516735, w: 0.69204515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyelidLowerRt
+      parentName: JtUpperFaceParent
+      position: {x: 0.028860675, y: -0.03096315, z: 0.13066222}
+      rotation: {x: 0.69204515, y: -0.14516735, z: 0.69204515, w: -0.14516735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyelidUpperLf
+      parentName: JtUpperFaceParent
+      position: {x: -0.028860675, y: -0.020021426, z: 0.13142876}
+      rotation: {x: -0.09601202, y: 0.7005581, z: -0.09601202, w: 0.7005581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtEyelidUpperRt
+      parentName: JtUpperFaceParent
+      position: {x: 0.028860675, y: -0.020021426, z: 0.13142876}
+      rotation: {x: 0.7005581, y: 0.09601202, z: 0.7005581, w: 0.09601202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperNoseLf
+      parentName: JtUpperFaceParent
+      position: {x: -0.011249543, y: -0.040032826, z: 0.1363749}
+      rotation: {x: 0.34552702, y: 0.473781, z: 0.4773006, w: 0.6544668}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLowerNoseLf
+      parentName: JtUpperNoseLf
+      position: {x: -0.019697804, y: -7.105427e-17, z: -8.8817837e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtUpperNoseRt
+      parentName: JtUpperFaceParent
+      position: {x: 0.011249543, y: -0.040032826, z: 0.1363749}
+      rotation: {x: 0.6544668, y: -0.4773006, z: 0.473781, w: -0.34552702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JtLowerNoseRt
+      parentName: JtUpperNoseRt
+      position: {x: 0.019697804, y: 7.105427e-17, z: -3.1086245e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IctUnitySettings
+      parentName: ChrRachel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _IctSettings_
+      parentName: ChrRachel(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ChrDefSettings
+      parentName: _IctSettings_
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PndMorphTargetCollectorNode
+      parentName: _IctSettings_
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
